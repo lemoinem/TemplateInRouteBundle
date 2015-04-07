@@ -1,0 +1,21 @@
+{
+    "name": "wemakecustom/template-in-route-bundle",
+    "description": "Allow the Template to be configured directly in the Route",
+    "keywords": ["route", "template"],
+    "type": "symfony-bundle",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mathieu Lemoine",
+            "email": "mathieu@wemakecustom.com"
+        }
+    ],
+    "require": {
+        "sensio/framework-extra-bundle": "~2.3 || ~3"
+    },
+    "autoload": {
+        "psr-0": { "WMC\\TemplateInRouteBundle": "" }
+    },
+    "target-dir": "WMC/TemplateInRouteBundle",
+    "minimum-stability": "dev"
+}
