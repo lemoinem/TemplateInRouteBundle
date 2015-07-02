@@ -15,7 +15,7 @@ The bundle can be installed via composer:
 
 You then simply need to enable it in your AppKernel:
 
-     new WMC\RouteInTemplateBundle\WMCTemplateInRouteBundle
+     new WMC\TemplateInRouteBundle\WMCTemplateInRouteBundle
 
 Usage
 -----
